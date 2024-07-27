@@ -1,0 +1,4 @@
+{"messages": [{"role": "system", "content": "Determina si el mensaje introducido es Spam."}, {"role": "user", "content": "Consigue un préstamo rápido y fácil."}, {"role": "assistant", "content": "0"}]}
+{"messages": [{"role": "system", "content": "Determina si el mensaje introducido es Spam."}, {"role": "user", "content": "No te pierdas esta oportunidad única."}, {"role": "assistant", "content": "0"}]}
+{"messages": [{"role": "system", "content": "Determina si el mensaje introducido es Spam."}, {"role": "user", "content": "Por favor, confirma la recepción de este correo."}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "system", "content": "Determina si el mensaje introducido es Spam."}, {"role": "user", "content": "Encuentra el amor de tu vida hoy mismo."}, {"role": "assistant", "content": "0"}]}
