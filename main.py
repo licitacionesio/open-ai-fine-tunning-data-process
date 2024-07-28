@@ -11,7 +11,7 @@ def _convert_to_open_ai(prompt, data):
             "messages": [
                 {"role": "system", "content": prompt},
                 {"role": "user", "content": row['Message']},
-                {"role": "assistant", "content": str(row['score'] if 'telegram' not in row['Message'].lower() else 0)}
+                {"role": "assistant", "content": str(row['score'])}
             ]
         }
         result.append(r)
